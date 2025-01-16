@@ -1,9 +1,8 @@
-# 🌟 Welcome to Hazem's GitHub Profile 🌟
+# Hi, I'm Hazem 👋
 
 ```javascript
-// About Hazem
 const hazem = {
-    name: "Hazem",
+    name: "Hazem Al-Kenany",
     role: "Aspiring AI Specialist & Software Developer 👨‍💻✨",
     degree: "BSc Computer Science (Artificial Intelligence) 🤖",
     status: "Nearing completion in May 2025 🎓",
