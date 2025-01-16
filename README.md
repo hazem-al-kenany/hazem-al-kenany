@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌟 Welcome to Hazem's GitHub Profile 🌟
 
-<!--
-**hazem-al-kenany/hazem-al-kenany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+// About Hazem
+const hazem = {
+    name: "Hazem",
+    role: "Aspiring AI Specialist & Software Developer 👨‍💻✨",
+    degree: "BSc Computer Science (Artificial Intelligence) 🤖",
+    status: "Nearing completion in May 2025 🎓",
+    aboutMe: [
+        "🚀 Passionate about solving real-world problems through code.",
+        "💻 Showcasing personal projects alongside university work on GitHub.",
+        "🌱 Constantly learning and building cool projects!"
+    ],
+    skills: {
+        programmingLanguages: ["🐍 Python", "☕ Java", "✨ JavaScript", "🌐 C", "📊 SQL"],
+        toolsAndFrameworks: ["🛠️ Git", "📂 Oracle", "🧠 TensorFlow"],
+        expertise: ["🤖 Artificial Intelligence", "⚙️ Machine Learning", "🌐 Web Development"]
+    },
+    currentlyLearning: ["📈GoLang"],
+    contact: {
+        email: "📧 elknanyhazem@gmail.com",
+        linkedin: "🔗 https://www.linkedin.com/in/hazem-al-kenany/"
+    }
+};
